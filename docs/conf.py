@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'byteShard'
-copyright = '2024, Bespin Studis GmbH'
+copyright = '2024, Bespin Studios GmbH'
 author = 'Lars Hennig, Jonas Bönhoff'
 
 # -- General configuration ---------------------------------------------------

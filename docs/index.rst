@@ -7,6 +7,5 @@ byteShard documentation
 
 
    categories/initial-configuration/index.md
-   categories/advanced-configuration/index.md
    categories/database-access/index.md
    categories/usage/index.md
