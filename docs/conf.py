@@ -40,7 +40,7 @@ html_theme_options = {
     "sticky_navigation": True,
     "titles_only": False,
     "display_github": True,
-    "github_repo": "https://github.com/bespin-studios/byteshard-docs"
+    "github_repo": "https://github.com/bespin-studios/byteshard-docs",
     "github_version": "main",
     "conf_py_path": "/docs/",
 }
