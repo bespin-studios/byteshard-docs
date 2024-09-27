@@ -28,7 +28,7 @@ html_static_path = ['_static']
 
 html_context = {
     "display_github": True,
-    "github_repo": "https://github.com/bespin-studios/byteshard-docs",
+    "github_repo": "bespin-studios/byteshard-docs",
     "github_version": "main",
     "conf_py_path": "/docs/",
 }
@@ -39,8 +39,4 @@ html_theme_options = {
     "collapse_navigation": False,
     "sticky_navigation": True,
     "titles_only": False,
-    "display_github": True,
-    "github_repo": "https://github.com/bespin-studios/byteshard-docs",
-    "github_version": "main",
-    "conf_py_path": "/docs/",
 }
